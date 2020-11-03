@@ -38,6 +38,11 @@ This is the script used to obtain this AWS Region List:
 .. literalinclude:: intro_d/describe_regions.py
   :language: python
 
+
+`Describing your Regions <https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html#using-regions-availability-zones-describe>`_
+
+`Describe Amazon EC2 Regions and Availability Zones <https://boto3.amazonaws.com/v1/documentation/api/latest/guide/ec2-example-regions-avail-zones.html>`_
+
 AWS Availability Zones
 **********************
 

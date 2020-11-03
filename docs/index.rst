@@ -21,6 +21,7 @@ Contents:
    Global infrastructure <global>
    Overview of Amazon Web Services <services>
    Amazon EC2 <ec2>
+   AWS Billing and Cost Management <billing>
 
 
    *
