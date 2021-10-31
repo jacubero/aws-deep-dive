@@ -1,19 +1,26 @@
-RegionName,Endpoint,OptInStatus
-eu-north-1,ec2.eu-north-1.amazonaws.com,opt-in-not-required
-ap-south-1,ec2.ap-south-1.amazonaws.com,opt-in-not-required
-eu-west-3,ec2.eu-west-3.amazonaws.com,opt-in-not-required
-eu-west-2,ec2.eu-west-2.amazonaws.com,opt-in-not-required
-eu-west-1,ec2.eu-west-1.amazonaws.com,opt-in-not-required
-ap-northeast-2,ec2.ap-northeast-2.amazonaws.com,opt-in-not-required
-me-south-1,ec2.me-south-1.amazonaws.com,not-opted-in
-ap-northeast-1,ec2.ap-northeast-1.amazonaws.com,opt-in-not-required
-sa-east-1,ec2.sa-east-1.amazonaws.com,opt-in-not-required
-ca-central-1,ec2.ca-central-1.amazonaws.com,opt-in-not-required
-ap-east-1,ec2.ap-east-1.amazonaws.com,not-opted-in
-ap-southeast-1,ec2.ap-southeast-1.amazonaws.com,opt-in-not-required
-ap-southeast-2,ec2.ap-southeast-2.amazonaws.com,opt-in-not-required
-eu-central-1,ec2.eu-central-1.amazonaws.com,opt-in-not-required
-us-east-1,ec2.us-east-1.amazonaws.com,opt-in-not-required
-us-east-2,ec2.us-east-2.amazonaws.com,opt-in-not-required
-us-west-1,ec2.us-west-1.amazonaws.com,opt-in-not-required
-us-west-2,ec2.us-west-2.amazonaws.com,opt-in-not-required
+Region,RegionName,Visibility
+US East (Ohio),us-east-2,Public
+US East (N. Virginia),us-east-1,Public
+US West (N. California),us-west-1,Public
+US West (Oregon),us-west-2,Public
+GovCloud (US-West), us-gov-west-1,Restricted
+GovCloud (US-East), us-gov-east-1,Restricted
+Africa (Cape Town),af-south-1,Enabled
+Asia Pacific (Hong Kong),ap-east-1,Enabled
+Asia Pacific (Mumbai),ap-south-1,Public
+Asia Pacific (Osaka-Local),ap-northeast-3,Restricted
+Asia Pacific (Seoul),ap-northeast-2,Public
+Asia Pacific (Singapore),ap-southeast-1,Public
+Asia Pacific (Sydney),ap-southeast-2,Public
+Asia Pacific (Tokyo),ap-northeast-1,Public
+Canada (Central),ca-central-1,Public
+China (Beijing),cn-north-1,Restricted
+China (Ningxia),cn-northwest-1,Restricted
+Europe (Frankfurt),eu-central-1,Public
+Europe (Ireland),eu-west-1,Public
+Europe (London),eu-west-2,Public
+Europe (Milan),eu-south-1,Enabled
+Europe (Paris),eu-west-3,Public
+Europe (Stockholm),eu-north-1,Public
+Middle East (Bahrain),me-south-1,Enabled
+South America (São Paulo),sa-east-1,Public
